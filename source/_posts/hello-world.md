@@ -1,38 +1,17 @@
 ---
-title: Hello World
+layout: post
+title: "Hello World"
+date: 2014-07-06 22:06:00 +0800
+category: Life
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+这一次，把家从中国的上海搬到了世界的上海。实现全局自动翻墙（也称科学上网）
+鸣谢：
 
-### Create a new post
+ - 路由器厂商 Netgear
+ - 独立路由器ROM - DD-WRT
+ - Astrill VPN provider
+ - 上海电信“国际精品网” 业务
+ - 赔我辛苦逛宜家买弱点柜的LD 
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+特此纪念，同时  F*** GFW !! 自由万岁
