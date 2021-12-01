@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Leo Li
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: 记录有我所爱的生活和大部分平庸的想法, **保持勇气和好奇心** <br> Courage and Curiosity
 avatar: /image/avatar.png
 
 # main menu navigation
@@ -34,7 +34,7 @@ links:
   # RSS:
   # AliPay:
   ZhiHu: https://www.zhihu.com/people/leoshcn
-  # LinkedIn:
+  LinkedIn: https://www.linkedin.com/in/leoshcn
   # FaceBook:
   # Twitter:
   # Skype:
@@ -43,12 +43,12 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://www.instagram.com/leoshcn/
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
-  # WeChat:
+  WeChat: leoshcn
   Github: https://github.com/leoshcn
 
 # how links show: you have 2 choice--text or icon.
