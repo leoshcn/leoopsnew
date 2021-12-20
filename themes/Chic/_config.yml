@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Leo Li
 
 ### this variable is MarkDown form.
-description: 记录有我所爱的生活和大部分平庸的想法, **保持勇气和好奇心** <br> Courage and Curiosity
+description: 有意思比有意义更重要, **保持勇气和好奇心** <br> Courage and Curiosity
 avatar: /image/avatar.png
 
 # main menu navigation
@@ -70,8 +70,7 @@ post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
-## toc
+post_copyright_slogan_text: 究竟什么样的终点，才配得上这一路的颠沛流离
 post_toc_enable: true
 
 # Page
