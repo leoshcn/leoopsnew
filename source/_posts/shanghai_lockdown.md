@@ -17,9 +17,10 @@ date: 2022-4-20 16:45
 * 110 120 12345 市长热线，全部被打爆
 看着这一出闹剧上演。这的确是一场试验，不过不是病毒的试验，而是政府对人民的管控可以达到什么样的程度。
 
-<img src=https://s2.loli.net/2022/04/20/6V4pqdJtiASymNK.jpg alt="街头的标语 via 微信朋友圈" width=400 />
+<img src=https://s2.loli.net/2022/04/20/6V4pqdJtiASymNK.jpg alt="街头的标语1 via 微信朋友圈" width=400 />
 
-![上海街头的标语 via 微信文章<MARKDOWN>](https://s2.loli.net/2022/04/20/5y6nkwBbMvoEAQz.jpg =400)
+<img src=https://s2.loli.net/2022/04/20/5y6nkwBbMvoEAQz.jpg alt="街头的标语2 via 微信朋友圈" width=400 />
+
 
 ## 背后的逻辑 
 我的判断就是老雷他儿子（包子总）为了二十大连任要搏一把。必须要体现社会主义的优越性，因为上半场我赢了，那么，
